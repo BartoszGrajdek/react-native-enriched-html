@@ -1,10 +1,6 @@
 <img src="https://placehold.co/1200x50" alt="demo" width="100%">
 <img src="https://github.com/user-attachments/assets/527d018a-ced7-4957-8dc2-2b374da5be05" alt="react-native-enriched-html by Software Mansion" width="100%">
 
-[![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-enriched-1?n=1)](https://swm-delivery.com/www/delivery/ck-slug.php?zoneid=zone-gh-react-native-enriched-1&n=1)
-[![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-enriched-2?n=1)](https://swm-delivery.com/www/delivery/ck-slug.php?zoneid=zone-gh-react-native-enriched-2&n=1)
-[![Ad](https://swm-delivery.com/www/images/zone-gh-react-native-enriched-3?n=1)](https://swm-delivery.com/www/delivery/ck-slug.php?zoneid=zone-gh-react-native-enriched-3&n=1)
-
 # react-native-enriched-html
 
 `react-native-enriched-html` is a powerful React Native Rich Text solution:
@@ -93,10 +89,9 @@ See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the 
 
 <img src="https://placehold.co/1200x200" alt="demo" width="100%">
 
-![swm](https://camo.githubusercontent.com/a6e0ddb8997e071292b55ef40b86e1150e12766e3f36687a2ba366b515a673b2/68747470733a2f2f6c6f676f2e73776d616e73696f6e2e636f6d2f6c6f676f3f636f6c6f723d77686974652676617269616e743d6465736b746f702677696474683d313530267461673d72656163742d6e61746976652d7265616e696d617465642d676974687562)
-
-
 ## XYZ Library and SWMs involvement
 Since 2012 [Software Mansion](https://swmansion.com) is a software agency with experience in building web and mobile apps. We are Core React Native Contributors and experts in dealing with all kinds of React Native issues.
 We can help you build your next dream product –
 [Hire us](https://swmansion.com/contact/projects?utm_source=react-native-enriched-html&utm_medium=readme).
+
+![swm](https://camo.githubusercontent.com/a6e0ddb8997e071292b55ef40b86e1150e12766e3f36687a2ba366b515a673b2/68747470733a2f2f6c6f676f2e73776d616e73696f6e2e636f6d2f6c6f676f3f636f6c6f723d77686974652676617269616e743d6465736b746f702677696474683d313530267461673d72656163742d6e61746976652d7265616e696d617465642d676974687562)
